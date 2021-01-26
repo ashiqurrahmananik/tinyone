@@ -1,0 +1,44 @@
+.header
+{
+	background-color: #FCDB00;
+	padding-top: 25px;
+	font-size: 20px;
+}
+.d
+{
+	font-size: 25px;
+}
+.slider
+{
+	background-color: #FCDB00;
+}
+.footer
+{
+	background-color: black;
+}
+.banner_content
+{
+	padding-top: 150px;
+}
+.banner_img
+{
+	padding-top: 70px;
+	padding-bottom: 100px;
+}
+.blod
+{
+	font-weight: bold;
+}
+.fixed
+{
+	margin-right:100px; 
+}
+.fixed li
+{
+	padding-left: 20px;
+}
+.fi
+{
+	font-size: 40px;
+	padding-left: 10px;
+}
